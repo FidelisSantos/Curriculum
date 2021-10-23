@@ -1,0 +1,104 @@
+html,
+body {
+  color: rgb(253, 252, 252);
+  background-image: url(./Image/decimal.jpg);
+
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+div {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  font-size: 1.5rem;
+}
+ul {
+  list-style: none;
+}
+span {
+  text-align: right;
+  color: silver;
+  font-size: 2rem;
+  font-family: cursive;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(253, 252, 252);
+  align-items: center;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+div.social {
+  width: 100%;
+}
+div.social ul {
+  background-color: white;
+  display: flex;
+  gap: 6rem;
+  justify-content: center;
+  padding: 24px 0;
+  box-sizing: border-box;
+}
+div.social ul li img {
+  max-width: 50px;
+}
+div.bassicos {
+  display: flex;
+  gap: 6rem;
+  justify-content: center;
+  font-family: fantasy;
+  font-size: 3rem;
+  box-sizing: border-box;
+}
+h4 {
+  background-color: silver;
+  color: black;
+}
+.menu {
+  display: flex;
+  justify-content: right;
+  font-size: 1.5rem;
+  gap: 3rem;
+}
+code {
+  font-style: italic;
+  display: block;
+  background-color: RGBA(0, 0, 0, 0.6);
+  color: white;
+  font-size: 2rem;
+  padding: 16px;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 100vh;
+}
+main {
+  margin-bottom: auto;
+}
+main p {
+  font-family: sans-serif;
+  font-size: 1.5rem;
+
+  margin: 20px 40px 80px 15px;
+}
+h6 {
+  font-size: 1.5rem;
+  font-family: cursive;
+}
+.php {
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+select {
+  font-size: 1.5rem;
+}
+button {
+  font-size: 1.5rem;
+  font-family: sans-serif;
+}
