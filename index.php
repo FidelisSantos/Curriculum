@@ -20,9 +20,8 @@
   </div>
 
   <p class="text">
-    Esse site é um método de eu demonstrar minhas competências ao mesmo tempo
-    que aprendo.<br />
-    É um método mais simples de coseguir um maior alcance enquanto mantenho
+    Esse site é um método de eu demonstrar minhas competências enquanto exercito o que aprendi.<br />
+    É um método mais simples de conseguir um maior alcance enquanto mantenho
     atualizado, é o ínicio de meus projetos WEB.
   </p>
 
